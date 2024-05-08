@@ -1,0 +1,8 @@
+# Arquivos gerados pelo Composer
+/vendor/
+
+# Arquivos gerados pelo PHPStorm
+/.idea/
+
+# Arquivos gerados pelo Spout
+/assets/papers.xlsx
